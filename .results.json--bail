@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 9,
+    "passes": 9,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-09-25T01:45:50.148Z",
+    "end": "2024-09-25T01:45:51.483Z",
+    "duration": 1335
+  },
+  "tests": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the default activity 'roller-skate' when no arguments are passed",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified uses the default activity 'roller-skate' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines mondayWork function expression as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the default activity 'go to the office' when no arguments are passed",
+      "fullTitle": "index.js defines mondayWork function expression as specified uses the default activity 'go to the office' when no arguments are passed",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines mondayWork function expression as specified permits the default activity to be overriden",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the default activity 'roller-skate' when no arguments are passed",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified uses the default activity 'roller-skate' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines mondayWork function expression as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "uses the default activity 'go to the office' when no arguments are passed",
+      "fullTitle": "index.js defines mondayWork function expression as specified uses the default activity 'go to the office' when no arguments are passed",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines mondayWork function expression as specified permits the default activity to be overriden",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
